@@ -1,1 +1,2 @@
 # jkpractical
+Jenkins CI test
